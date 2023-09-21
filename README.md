@@ -7,6 +7,7 @@
 [![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
+![Static Badge](https://img.shields.io/badge/:badgeContent?logo=Go&logoColor=white)
 
 
 ## Apprentissage / perfectionnement
