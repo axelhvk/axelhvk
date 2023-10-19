@@ -8,7 +8,8 @@
 
 
 ## Apprentissage
-[![Go](https://img.shields.io/badge/-Go-00ADD8?&logo=Go&logoColor=white)](https://golang.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/-React%20Native-0088CC?style=for-the-badge&logo=React&logoColor=white)](https://reactnative.dev/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
