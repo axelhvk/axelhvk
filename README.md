@@ -8,6 +8,7 @@
 
 
 ## Apprentissage
+[![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white&labelColor=000000&logoWidth=20&logoHeight=20&style=border-radius:5px)](https://www.lua.org/)
 [![React Native](https://img.shields.io/badge/-React%20Native-0088CC?style=for-the-badge&logo=React&logoColor=white&labelColor=282c34&logoWidth=20&logoHeight=20&style=border-radius:5px)](https://reactnative.dev/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=282c34&logoWidth=20&logoHeight=20&style=border-radius:5px)](https://reactjs.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
