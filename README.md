@@ -18,6 +18,3 @@
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=PHP&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
-
-## Contact
-Vous pouvez me contacter ici : axel.veyrier04@gmail.com
